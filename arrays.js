@@ -1,1 +1,1 @@
-array.addElementToBeginningOfArray['snickers', 'mily way', 'butterfinger']
+array.addElementToBeginningOfArray['m&ms', 'mily way', 'butterfinger'];
