@@ -1,1 +1,1 @@
-array.addElementToBeginningOfArray['m&ms', 'mily way', 'butterfinger'];
+var chocolateBars = ["chocolatBars", "snickers", "hundred grand", "kit kat", "skittles"];
