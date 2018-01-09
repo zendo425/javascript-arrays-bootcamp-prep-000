@@ -5,6 +5,5 @@ var addElementToBeginningOfArray = ["porsche", "mercedes"];
 
 
 var destructivelyAddElementToBeginningOfArray = ["ford", "chevrolet"];
-destructivelyAddElementToBeginningOfArray.concat("")
 
 destructivelyAddElementToBeginningOfArray.unshift("dodge");
