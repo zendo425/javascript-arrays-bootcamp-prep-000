@@ -4,4 +4,4 @@ var chocolateBars = ["chocolatBars", "snickers", "hundred grand", "kit kat", "sk
 var addElementToBeginningOfArray = ["porsche", "mercedes"];
 
 
-var destructivelyAddElementToBeginningOfArray = [""];
+var destructivelyAddElementToBeginningOfArray = ["ford", "chevrolet"];
