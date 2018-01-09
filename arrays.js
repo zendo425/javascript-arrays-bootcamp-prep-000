@@ -1,1 +1,1 @@
-function
+array.addElementToBeginningOfArray['snickers', 'mily way', 'butterfinger']
