@@ -1,6 +1,6 @@
 var chocolateBars = ["chocolatBars", "snickers", "hundred grand", "kit kat", "skittles"];
 
-var addElementToBeginningOfArray = function() {
+function addElementToBeginningOfArray = () {
   ["porsche", "mercedes"];
    addElementToBeginningOfArray.concat("corvette");
 };
