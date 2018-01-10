@@ -5,5 +5,5 @@ function addElementToBeginningOfArray(array, element){
 }
 
 function destructivelyaddElementToBeginningOfArray(array, element){
-  return [element, array.concat];
+  return [element, array.push];
 }
