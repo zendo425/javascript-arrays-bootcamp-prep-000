@@ -1,8 +1,6 @@
 var chocolateBars = ["chocolatBars", "snickers", "hundred grand", "kit kat", "skittles"];
 
-function addElementToBeginningOfArray() = ["porsche", "mercedes"];
-addElementToBeginningOfArray.concat("corvette");
-
+function addElementToBeginningOfArray() = 
 
 var destructivelyAddElementToBeginningOfArray = ["ford", "chevrolet"];
 
